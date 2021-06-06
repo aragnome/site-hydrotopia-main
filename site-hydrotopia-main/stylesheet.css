@@ -1,0 +1,52 @@
+body{
+	background-attachment: fixed;
+	background-image;
+}
+li{
+    color: lime;
+}
+h3{
+    color: orange;
+}
+h1{
+    color: black;
+}
+h2{
+    color: red;
+}
+h2:before {
+  content:url(https://cdn.discordapp.com/emojis/816632147371622400.png?v=1) ;
+  position: relative;
+  left: +1px;
+  top: -1px;
+}
+#hydroprisme:before {
+   content:url(https://cdn.discordapp.com/emojis/841714232415485972.png?v=1) ;
+   position: relative;
+   left: +1px;
+   top: -1px;
+	 width: 15px;
+}
+#bouton1{background-color: #008CBA;
+	font-size: 15px;
+	border-radius: 6px;
+	transition-duration: 2s;
+}
+#bouton1:hover{
+	background-color: rgba(255, 99, 71, 0);
+  color: black;
+  border: 2px solid #008CBA;
+}
+#bouton2{background-color: #008CBA;
+	font-size: 15px;
+	border-radius: 6px;
+	transition-duration: 2s;
+}
+#bouton2:hover{
+	background-color: rgba(255, 99, 71, 0);
+  color: black;
+  border: 2px solid #008CBA;
+}
+#logo1{
+	width: 10%
+}

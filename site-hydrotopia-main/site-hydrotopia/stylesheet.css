@@ -1,0 +1,118 @@
+body{
+	background-attachment: fixed;
+	background-image;
+}
+li{
+    color: lime;
+}
+h3{
+    color: orange;
+}
+h1{
+    color: black;
+}
+h2{
+    color: red;
+}
+h2:before {
+  content:url(https://cdn.discordapp.com/emojis/816632147371622400.png?v=1) ;
+  position: relative;
+  left: +1px;
+  top: -1px;
+}
+#hydroprisme:before {
+   content:url(https://cdn.discordapp.com/emojis/841714232415485972.png?v=1) ;
+   position: relative;
+   left: +1px;
+   top: -1px;
+	 width: 15px;
+}
+#bouton1{background-color: rgba(0,0,0, 0);
+	font-size: 15px;
+	border-radius: 6px;
+	transition-duration: 2s;
+	color: black;
+	border: 2px solid rgba(0,0,0, 255);
+}
+#bouton1:hover{
+	background-color: rgba(0,0,0,0.25);
+  color: black;
+  border: 2px solid rgba(0,0,0,255);
+}
+#bouton2{background-color: rgba(0,0,0, 0);
+	font-size: 45px;
+	width:426px;
+	border-radius: 2px;
+	transition-duration: 1s;
+	border: 2px solid rgba(0,0,0,255);
+	color: black;
+}
+#bouton2:hover{
+	background-color: rgba(0,0,0,0.25);
+  color: black;
+  border: 2px solid rgba(0,0,0,255);
+}
+
+
+
+#logo1{
+	width: 15%
+}
+
+#bouton3{background-color: rgba(0,0,0,0);
+	font-size: 35px;
+	width:213px;
+	border-radius: 2px;
+	transition-duration: 1s;
+	float: center;
+	color: black;
+    border: 2px solid rgba(0,0,0, 255);
+}
+#bouton3:hover{
+	background-color: rgba(0,0,0,0.25);
+  color: black;
+  border: 2px solid rgba(0,0,0,255);
+}
+#bouton4{background-color: rgba(200,0,0,0);
+	font-size: 20px;
+	width:100px;
+	border-radius: 2px;
+	transition-duration: 1s;
+	float: center;
+	color: black;
+    border: 2px solid rgba(200,0,0, 255);
+}
+#bouton4:hover{
+	background-color: rgba(200,0,0,0.25);
+  color: black;
+  border: 2px solid rgba(200,0,0,255);
+}
+
+#bouton5{background-color: rgba(200,0,0,0);
+	font-size: 20px;
+	width:100px;
+	border-radius: 2px;
+	transition-duration: 1s;
+	float: center;
+	color: black;
+    border: 2px solid rgba(200,0,0, 255);
+}
+#bouton5:hover{
+	background-color: rgba(200,0,0,0.25);
+  color: black;
+  border: 2px solid rgba(200,0,0,255);
+}
+#bouton6{background-color: rgba(200,0,0,0);
+	font-size: 20px;
+	width:100px;
+	border-radius: 2px;
+	transition-duration: 1s;
+	float: center;
+	color: black;
+    border: 2px solid rgba(200,0,0, 255);
+}
+#bouton6:hover{
+	background-color: rgba(200,0,0,0.25);
+  color: black;
+  border: 2px solid rgba(200,0,0,255);
+}
